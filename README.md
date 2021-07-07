@@ -1,4 +1,4 @@
-# 21_days_Mitali
+# 21_days_Mitali_Mehta
 Mitali Mehta
 KJSCE
 
