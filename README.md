@@ -9,4 +9,5 @@ Day 2: Read more about Data Cleaning- why and how
 Day 3: Machine Learning Basics
 Day 4: Linear Regression, The Very Basics ; Linear Regression, Algebra, Equations, and Patterns
 Day 5: Linear Regression, The Least Squares Method ; Linear Regression, Fit and Coefficient of Determination
-Day 6: Multiple Linear Regression, The Very Basics ; Linear Regression, Standardized Regression ; Linear Regression Algorithm
+Day 6: Linear Regression, Standardized Regression ; Linear Regression Algorithm ; Multiple Linear Regression, The Very Basics
+Day 7: Multiple Linear Regression, Data Preparation ; Multiple Linear Regression, Evaluating Basic Models ; Basic code for Linear Regression
