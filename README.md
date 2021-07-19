@@ -14,3 +14,4 @@ Day 7: Multiple Linear Regression, Data Preparation ; Multiple Linear Regression
 Day 8: Logistic Regression, An Introduction ; Probability, Odds, and Odds Ratio ; Logit and Regression Equation ; Estimating the Probability
 Day 9: Logistic Regression, Odds Ratio for Any Interval ; Logistic Regression in Excel / Google Sheets, PC / Mac
 Day 10: Logistic Regression Example
+Day 11: Decision Trees
