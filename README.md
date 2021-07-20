@@ -15,3 +15,4 @@ Day 8: Logistic Regression, An Introduction ; Probability, Odds, and Odds Ratio 
 Day 9: Logistic Regression, Odds Ratio for Any Interval ; Logistic Regression in Excel / Google Sheets, PC / Mac
 Day 10: Logistic Regression Example
 Day 11: Decision Trees
+Day 12: Practice project
