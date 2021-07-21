@@ -16,3 +16,4 @@ Day 9: Logistic Regression, Odds Ratio for Any Interval ; Logistic Regression in
 Day 10: Logistic Regression Example
 Day 11: Decision Trees
 Day 12: Practice project
+Day 13: StatQuest: Decision Trees
