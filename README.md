@@ -18,3 +18,4 @@ Day 11: Decision Trees
 Day 12: Practice project
 Day 13: StatQuest: Decision Trees
 Day 14: Decision Trees (contd)
+Day 15: KNN - introduction 
