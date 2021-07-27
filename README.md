@@ -20,4 +20,5 @@ Day 13: StatQuest: Decision Trees
 Day 14: Decision Trees (contd)
 Day 15: KNN - introduction 
 Day 16: KNN applies to scatterplot data and heatmap
-Day 17: 
+Day 17: KNN algorithm
+Day 18: K-means clustering algorithm 
