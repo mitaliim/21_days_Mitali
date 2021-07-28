@@ -22,3 +22,4 @@ Day 15: KNN - introduction
 Day 16: KNN applies to scatterplot data and heatmap
 Day 17: KNN algorithm
 Day 18: K-means clustering algorithm 
+Day 19: K-means how to pick a value for K
