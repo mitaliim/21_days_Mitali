@@ -23,3 +23,5 @@ Day 16: KNN applies to scatterplot data and heatmap
 Day 17: KNN algorithm
 Day 18: K-means clustering algorithm 
 Day 19: K-means how to pick a value for K
+Day 20: K-means vs Hierarchical clustering, K-means clustering and 2-Dimensional data
+Day 21:
